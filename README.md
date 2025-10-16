@@ -1,6 +1,54 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hello+I'm+Sangam+Kumar+👋;I'm+a+Java+Developer+💻" alt="Typing SVG" />
-</h1>
+<!-- ================== Gradient + Typing Animated Header ================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&width=700&lines=Hello+I+am+Sangam+Kumar;I+am+a+Java+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</p>
+
+<!-- ================== Gradient / Neon Tech Stack Badges ================== -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSP-FF5C8D?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+<!-- ================== GitHub Stats + Streak ================== -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sangam1507&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sangam1507&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<!-- ================== Top Languages ================== -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangam1507&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<!-- ================== Latest 6 Repos ================== -->
+<p align="center">
+  <img src="https://github-readme-widget.vercel.app/api?username=Sangam1507&count=6&theme=radical" alt="Latest Repos" />
+</p>
+
+<!-- ================== Social / Contact Badges ================== -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/sangam-kumar-01821a26b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Sangam1507">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<!-- ================== Download Resume Button ================== -->
+<p align="center">
+  <a href="https://yourwebsite.com/resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download_Resume-1abc9c?style=for-the-badge&logo=adobeacrobat&logoColor=white" />
+  </a>
+</p>
 
 
 
