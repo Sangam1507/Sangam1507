@@ -1,12 +1,25 @@
-👋 Hi, I'm Sangam Kumar
+👨‍💻 Sangam Kumar
 
-🎯 Aspiring Software Developer | Java Full-Stack Enthusiast | Passionate about Scalable Applications
+Java Developer | Full Stack Enthusiast | Backend Engineer
 
-💡 I’m a dedicated and enthusiastic developer focused on building efficient, user-friendly, and impactful applications using Java, Spring Boot, and MySQL. I enjoy turning ideas into functional code, improving performance, and exploring new technologies.
+💡 Passionate about building scalable, efficient, and secure web applications using Java, Spring Boot, and MySQL.
 
-🧠 Technical Skills
+🧠 Focused on Backend Development, REST APIs, and Database Management.
 
-Languages: Core Java, Advanced Java, DSA, OOP, Functional Programming
+🚀 Hands-on experience through multiple academic projects and internships.
+
+🌱 Currently pursuing MCA from KIET Group of Institutions, Ghaziabad (2024–2026).
+
+🎯 Certified in Java OOPs & Spring Boot from Ducat Institute and Udemy.
+
+
+
+
+
+
+🛠️ Technical Skills
+
+Programming: Core Java, Advanced Java, DSA, OOP, Functional Programming
 
 Frontend: HTML, CSS, Bootstrap, TailwindCSS
 
@@ -14,73 +27,89 @@ Backend & Frameworks: Spring Boot, Spring MVC, Hibernate, JSP, Servlets, RESTful
 
 Database: MySQL, Oracle
 
-Tools: Eclipse, VS Code, Spring Tool Suite (STS), Postman, Git & GitHub
+Tools: Eclipse, VS Code, STS, Postman, Git & GitHub
 
 
-🚀 Projects
 
-🖥️ E-Waste Portal
-
-Java, Spring Boot, MySQL, JWT
-
-Developed a secure e-waste recycling web app with user/admin modules.
-
-Implemented JWT authentication and role-based access control.
-
-Integrated MySQL + JPA/Hibernate for data management.
-
-🌍 Indian Trav
-
-HTML, CSS, Core Java, MySQL
-
-Designed a travel website showcasing destinations and packages.
-
-Added booking and data management modules using Java and MySQL.
-
-🛒 E-Commerce Website
-
-Java, JSP, Servlets, MySQL
-
-Built a responsive website with product browsing, cart, and checkout.
-
-Designed MySQL schema for products, users, and orders.
-
-💼 Internship Experience
-
-Zidio Development – Java Full Stack Developer Intern (Jun 2025 – Aug 2025)
-
-Developed REST APIs and responsive UI using Spring Boot / Spring MVC.
-
-Integrated MySQL for backend data operations and scalability.
-
-
-S O Infotech (P) Ltd – Backend Developer Intern (Apr 2023 – Sep 2023)
-
-Created a Fees Management System using advanced Java.
-
-Enhanced enterprise app performance with optimized backend logic.
-
-
-🏆 Certifications
-
-Java Expert – Ducat Institute
-
-Mastering Java OOPs with Functional Programming – Udemy
-
-Spring Boot from Scratch for Beginners – Udemy
 
 
 🎓 Education
 
-MCA – KIET Group of Institutions, Ghaziabad (2024–2026) — 78.8%
+🎓 Master of Computer Applications (MCA) – KIET Group of Institutions (2024 – 2026)
 
-BCA – Hi-Tech Institute of Engg. & Tech., Ghaziabad (2021–2024) — 68.8%
+🎓 Bachelor of Computer Applications (BCA) – Hi-Tech Institute of Engg. & Tech (2021 – 2024)
+
+🏫 Intermediate – Indraprastha Public School (2021)
+
+🏫 High School – Diwakar Model School (2019)
 
 
-📫 Connect with Me
 
-🌐 LinkedIn
 
- | 💻 GitHub
- 
- | ✉️ Email
+📂 Projects
+
+♻️ E-Waste Portal (Jul 2025 – Sept 2025)
+
+Tech Stack: Java, Spring Boot, MySQL, JWT
+
+➡ Developed a secure e-waste recycling platform with user/admin modules.
+
+➡ Implemented JWT Authentication and role-based access control.
+
+➡ Managed data using JPA/Hibernate with MySQL.
+
+🌍 Indian Trav (Aug 2024 – Oct 2024)
+
+Tech Stack: HTML, CSS, Core Java, MySQL
+
+➡ Created a travel website showcasing destinations and tour packages.
+
+➡ Added booking & database management features using Java and MySQL.
+
+🛒 E-Commerce Website (Apr 2023 – Jun 2023)
+
+Tech Stack: Java, JSP, Servlets, MySQL
+
+➡ Built a full-featured e-commerce site with product browsing, cart & checkout.
+
+➡ Designed MySQL schema for users, orders, and product management.
+
+
+
+
+💼 Internship Experience
+💻 Zidio Development – Java Full Stack Developer Intern (Jun 2025 – Aug 2025)
+
+
+➡ Developed REST APIs and responsive UI using Spring Boot & MySQL.
+
+➡ Collaborated on scalable backend logic for job portal applications.
+
+⚙️ S O Infotech (P) Ltd – Backend Developer Intern (Apr 2023 – Sep 2023)
+
+
+➡ Built a Fees Management System using Advanced Java and JDBC.
+
+➡ Enhanced enterprise-level performance and optimized backend queries.
+
+
+
+
+📜 Certifications
+
+
+🏅 Java Expert – Ducat Institute
+
+🏅 Mastering Java OOPs with Functional Programming – Udemy
+
+🏅 Spring Boot from Scratch for Beginners – Udemy
+
+
+
+
+
+
+🌐 Connect with Me
+🔗 LinkedIn
+💻 GitHub
+📧 Email
