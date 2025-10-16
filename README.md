@@ -1,5 +1,5 @@
 👨‍💻 Sangam Kumar
-
+_________________________________________________________________________________________________________________________________________________________________________________________________________________
 Java Developer | Full Stack Enthusiast | Backend Engineer
 
 💡 Passionate about building scalable, efficient, and secure web applications using Java, Spring Boot, and MySQL.
@@ -12,6 +12,7 @@ Java Developer | Full Stack Enthusiast | Backend Engineer
 
 🎯 Certified in Java OOPs & Spring Boot from Ducat Institute and Udemy.
 
+_________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
 
@@ -29,6 +30,7 @@ Database: MySQL, Oracle
 
 Tools: Eclipse, VS Code, STS, Postman, Git & GitHub
 
+_________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
 
@@ -44,11 +46,12 @@ Tools: Eclipse, VS Code, STS, Postman, Git & GitHub
 🏫 High School – Diwakar Model School (2019)
 
 
-
+_________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 📂 Projects
 
 ♻️ E-Waste Portal (Jul 2025 – Sept 2025)
+________________________________________
 
 Tech Stack: Java, Spring Boot, MySQL, JWT
 
@@ -59,6 +62,7 @@ Tech Stack: Java, Spring Boot, MySQL, JWT
 ➡ Managed data using JPA/Hibernate with MySQL.
 
 🌍 Indian Trav (Aug 2024 – Oct 2024)
+_______________________________________________
 
 Tech Stack: HTML, CSS, Core Java, MySQL
 
@@ -67,6 +71,7 @@ Tech Stack: HTML, CSS, Core Java, MySQL
 ➡ Added booking & database management features using Java and MySQL.
 
 🛒 E-Commerce Website (Apr 2023 – Jun 2023)
+_____________________________________________________
 
 Tech Stack: Java, JSP, Servlets, MySQL
 
@@ -74,7 +79,7 @@ Tech Stack: Java, JSP, Servlets, MySQL
 
 ➡ Designed MySQL schema for users, orders, and product management.
 
-
+_________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
 💼 Internship Experience
@@ -92,7 +97,7 @@ Tech Stack: Java, JSP, Servlets, MySQL
 
 ➡ Enhanced enterprise-level performance and optimized backend queries.
 
-
+__________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
 📜 Certifications
@@ -104,7 +109,7 @@ Tech Stack: Java, JSP, Servlets, MySQL
 
 🏅 Spring Boot from Scratch for Beginners – Udemy
 
-
+__________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
 
