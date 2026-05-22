@@ -78,15 +78,13 @@ ________________________________________________________________________________
 
 🛠️ Technical Skills
 
-Programming: Core Java, Advanced Java, DSA, OOP, Functional Programming
-
-Frontend: HTML, CSS, Bootstrap, TailwindCSS
-
-Backend & Frameworks: Spring Boot, Spring MVC, Hibernate, JSP, Servlets, RESTful APIs
-
-Database: MySQL, Oracle
-
-Tools: Eclipse, VS Code, STS, Postman, Git & GitHub
+Programming: Java
+ Frontend: HTML, CSS, JavaScript (Basic), Bootstrap
+ Backend & Frameworks: Spring Boot, Spring MVC, Microservices Architecture, Hibernate, JSP, Servlets, JDBC, RESTful API 
+Development
+ Database: MySQL
+ Tools & Platforms: Git, GitHub, VS Code, Postman, Spring Tool Suite (STS)
+ Concepts: Object-Oriented Programming (OOP), MVC Architecture, REST Architecture, Software Development Life Cycle (SDLC)
 
 _________________________________________________________________________________________________________________________________________________________________________________________________________________
 
@@ -111,31 +109,28 @@ ________________________________________________________________________________
 ♻️ E-Waste Portal (Jul 2025 – Sept 2025)
 ________________________________________
 
-Tech Stack: Java, Spring Boot, MySQL, JWT
-
-➡ Developed a secure e-waste recycling platform with user/admin modules.
-
-➡ Implemented JWT Authentication and role-based access control.
-
-➡ Managed data using JPA/Hibernate with MySQL.
+ Developed a web-based e-waste management system with separate user and admin modules.
+ Implemented user registration and login functionality.
+ Built backend services using Spring Boot and REST APIs.
+ Integrated MySQL database using JPA/Hibernate for efficient data management.
 
 🌍 Indian Trav (Aug 2024 – Oct 2024)
 _______________________________________________
 
 Tech Stack: HTML, CSS, Core Java, MySQL
 
-➡ Created a travel website showcasing destinations and tour packages.
-
-➡ Added booking & database management features using Java and MySQL.
+ Developed a travel website showcasing tour destinations and travel packages.
+ Implemented backend functionality using Core Java and MySQL database.
+ Designed responsive user interface using HTML and CSS.
 
 🛒 E-Commerce Website (Apr 2023 – Jun 2023)
 _____________________________________________________
 
 Tech Stack: Java, JSP, Servlets, MySQL
 
-➡ Built a full-featured e-commerce site with product browsing, cart & checkout.
-
-➡ Designed MySQL schema for users, orders, and product management.
+ Built an e-commerce web application with product listing, shopping cart, and checkout features.
+ Designed MySQL database schema for product and user data.
+ Implemented MVC architecture using JSP and Servlets.
 
 _________________________________________________________________________________________________________________________________________________________________________________________________________________
 
@@ -143,28 +138,23 @@ ________________________________________________________________________________
 💼 Internship Experience
 💻 Zidio Development – Java Full Stack Developer Intern (Jun 2025 – Aug 2025)
 
+ Developed RESTful APIs using Spring Boot and Spring MVC.
+ Integrated backend services with MySQL database.
+ Collaborated with team members to develop a Job Portal application.
 
-➡ Developed REST APIs and responsive UI using Spring Boot & MySQL.
-
-➡ Collaborated on scalable backend logic for job portal applications.
 
 ⚙️ S O Infotech (P) Ltd – Backend Developer Intern (Apr 2023 – Sep 2023)
 
-
-➡ Built a Fees Management System using Advanced Java and JDBC.
-
-➡ Enhanced enterprise-level performance and optimized backend queries.
+ Developed a Core Java-based Fees Management System.
+ Implemented features to add, update, delete, and view fee records.
+ Integrated MySQL using JDBC with input validation.
 
 __________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
 📜 Certifications
 
-
 🏅 Java Expert – Ducat Institute
-
-🏅 Mastering Java OOPs with Functional Programming – Udemy
-
 🏅 Spring Boot from Scratch for Beginners – Udemy
 
 __________________________________________________________________________________________________________________________________________________________________________________________________________________
